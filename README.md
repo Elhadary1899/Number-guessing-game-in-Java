@@ -15,8 +15,4 @@ Here's what I achieved:</br>
 
 
 
-This project allowed me to solidify my understanding of OOP concepts and their practical application in building interactive programs.💎</br>
-
-
-
-#java #programming #oop #oopprinciples #numberguessinggame 
+This project allowed me to solidify my understanding of OOP concepts and their practical application in building interactive programs.💎
