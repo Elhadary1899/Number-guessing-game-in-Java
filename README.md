@@ -3,9 +3,8 @@ Excited to share my latest Java project, a fully interactive number guessing gam
 
 Ever played a number guessing game? I took it a step further and built one in Java, incorporating key OOP principles for a more robust and user-friendly experience.</br>
 
-Here's what I achieved:</br>
-
-1- Object-Oriented Design: Utilized inheritance to create a clean and scalable codebase.</br>
+Here's what I achieved:
+1- Object-Oriented Design: Utilized inheritance to create a clean and scalable codebase.
 
 2- Exception Handling: Ensured a smooth gameplay experience by gracefully handling user input errors.</br>
 
